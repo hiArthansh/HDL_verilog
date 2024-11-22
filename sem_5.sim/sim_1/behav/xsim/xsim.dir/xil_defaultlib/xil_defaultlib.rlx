@@ -1,0 +1,14 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sim_1/new/armtech_tb.v,1731837248,verilog,,,,armtech_tb,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sim_1/new/armtech_tb3.v,1731837797,verilog,,C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sources_1/new/prac3.v,,testbench,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sim_1/new/armtech_tb4.v,1731838541,verilog,,C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sources_1/new/prac4.v,,encoder_tb,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sim_1/new/armtech_tb5.v,1731838969,verilog,,C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sources_1/new/prac5.v,,tb_full_adder,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sim_1/new/armtech_tb6.v,1731875222,verilog,,,,tb_mux4to1,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sources_1/new/prac1.v,1731837248,verilog,,C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sim_1/new/armtech_tb.v,,prac1,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sources_1/new/prac3.v,1731837797,verilog,,,,decoder_2to4,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sources_1/new/prac4.v,1731838541,verilog,,,,encoder3_to_8,,,,,,,,
+C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sources_1/new/prac5.v,1731839164,verilog,,C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.srcs/sim_1/new/armtech_tb5.v,,full_adder,,,,,,,,

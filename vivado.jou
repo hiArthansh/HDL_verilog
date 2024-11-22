@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Nov 22 21:05:50 2024
+# Process ID: 1608
+# Current directory: C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16708 C:\Users\armte\OneDrive\Desktop\verilog projects\vivado_projects\sem_5\sem_5.xpr
+# Log file: C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/vivado.log
+# Journal file: C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5\vivado.jou
+# Running On        :armtech_897
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+# CPU Frequency     :2688 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16888 MB
+# Swap memory       :1073 MB
+# Total Virtual     :17962 MB
+# Available Virtual :5664 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/armte/OneDrive/Desktop/verilog projects/vivado_projects/sem_5/sem_5.xpr}
+update_compile_order -fileset sources_1
